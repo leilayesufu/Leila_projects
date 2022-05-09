@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap');
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;;
+}
+h1{
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #7FB5FF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    margin: 50px auto 0px auto;
+    color: #7FB5FF;
+    font-weight: normal;
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
+hr{
+    margin: 0px auto 0px auto;
+    color: #11999E;
+    border-style: dotted;
+    border-width: 0px 0px 10px 0px ;
+    width: 4%;
+}
+button{
+background-color: #FF7BA9;
+height: 20%;
+margin-top: 2rem;
+width: 150px;
+color:darkblue;
+}
+.top_container{
+    background: #F4BBBB;
+    padding: 100px;
+    position: relative;
+}
+.skill-row{
+   display: inline-block;
+   width: 50%;
+   margin: 80px auto 80px auto;
+   text-align: left;
+   line-height: 2;
+}
+.skill-row img{
+    width: 25%;
+}
+.coderpic{
+    float: left;
+    margin-right: 30px;
+}
+.chesspic{
+    float:right;
+    margin-left: 30px;
+}
+.front{
+    text-decoration: underline;
+}
+.picd{
+    margin-top: 100px;
+}
+.botcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+}
+.topcloud{
+    position:absolute;
+    top: 50px;
+    right: 400px;
+}
+.bottom-container{
+    background-color: #FF7BA9;
+    margin-top: 100px;
+}
+.footer-link{
+    margin-right: 100px;
+}
+.lei{
+    position:relative;
+    right: 50px;
+    color: #EAF6F6;
+    margin-top: 2.3rem;
+}
+#tech{
+    text-align: auto;
+}
+#btn{
+    text-decoration: none;
+color: black;
+}
